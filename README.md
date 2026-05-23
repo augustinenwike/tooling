@@ -72,4 +72,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-## Thi is udo's branch
+## This is udo's branch
